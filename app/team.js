@@ -456,6 +456,10 @@ const teamOf24 = {
   ],
 };
 
+const teamOf25 = {
+
+}
+
 const teamData = [
   // The latest team information must be above the rest which will set it to default.
   { ...teamOf24 },
